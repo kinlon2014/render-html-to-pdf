@@ -1,6 +1,6 @@
 {
   "name": "render-html-to-pdf",
-  "version": "2.1.1",
+  "version": "2.1.2-10.6.0.2400.0",
   "description": "最近碰到个需求，需要把当前页面生成pdf，并下载。弄了几天，自己整理整理，记录下来，我觉得应该会有人需要 ：）",
   "main": "index.js",
   "directories": {
